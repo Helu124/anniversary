@@ -1,0 +1,32 @@
+/* Navbar.Module.css */
+
+.navbar {
+  background: linear-gradient(45deg, #ff8a80, #ffd3e0); /* Pastel blue background color */
+  padding: 10px;
+  border-bottom: 2px solid #000000; /* Add a 2px solid bottom border with React blue color */
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #333; /* Dark gray text color */
+  font-weight: bold;
+  font-size: 1.2em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Clean and modern font */
+  transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+
+.navbar a:hover {
+  color: #61dafb; /* React blue text color on hover */
+}
