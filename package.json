@@ -2,7 +2,7 @@
   "name": "happybday",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Helu124.github.io/happybday",
+  "homepage": "https://helu124.github.io/happybday/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dependencies": {
