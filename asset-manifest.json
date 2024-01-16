@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/happybday/static/css/main.f2edb4a5.css",
+    "main.css": "/happybday/static/css/main.a88b4ff7.css",
     "main.js": "/happybday/static/js/main.954280e6.js",
     "static/js/787.820c63d6.chunk.js": "/happybday/static/js/787.820c63d6.chunk.js",
     "static/media/Pastel-Flower-Background.jpg": "/happybday/static/media/Pastel-Flower-Background.f13bb4d924a8c15dc8e7.jpg",
     "index.html": "/happybday/index.html",
-    "main.f2edb4a5.css.map": "/happybday/static/css/main.f2edb4a5.css.map",
+    "main.a88b4ff7.css.map": "/happybday/static/css/main.a88b4ff7.css.map",
     "main.954280e6.js.map": "/happybday/static/js/main.954280e6.js.map",
     "787.820c63d6.chunk.js.map": "/happybday/static/js/787.820c63d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2edb4a5.css",
+    "static/css/main.a88b4ff7.css",
     "static/js/main.954280e6.js"
   ]
 }
