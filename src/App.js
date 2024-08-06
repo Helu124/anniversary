@@ -2,7 +2,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./NavBar";
-import BirthdayMessage from "./BirthdayMessage";
+import AnniversaryMessage from "./AnniversaryMessage";
 import { useSpring, animated } from "react-spring";
 import "./App.css";
 
@@ -24,19 +24,19 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route path="/birthday-message" element={<BirthdayMessage />} />
+          <Route path="/anniversary-message" element={<AnniversaryMessage />} />
           <Route
             path="/"
             element={
               <header className="App-header">
-                <animated.h1 style={fadeIn}>Happy Birthday Adira!</animated.h1>
+                <animated.h1 style={fadeIn}>Happy 2nd Monthsary!</animated.h1>
                 <animated.div style={bounce}>
                   <span
                     role="img"
                     aria-label="confetti"
                     style={{ fontSize: "2em" }}
                   >
-                    🎉
+                    🩷
                   </span>
                 </animated.div>
               </header>

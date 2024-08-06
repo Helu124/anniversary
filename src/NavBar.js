@@ -1,7 +1,6 @@
 // Navbar.js
 import React from "react";
 import { Link } from "react-router-dom";
-import BirthdayMessage from "./BirthdayMessage";
 import styles from "./NavBar.module.css";
 
 const Navbar = () => {
@@ -12,7 +11,7 @@ const Navbar = () => {
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/birthday-message">Birthday Message</Link>
+          <Link to="/anniversary-message">Message</Link>
         </li>
         {/* Add more navigation items as needed */}
       </ul>

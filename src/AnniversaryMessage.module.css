@@ -1,0 +1,47 @@
+/* BirthdayMessage.module.css */
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.anniversarymessage {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  color: #ffcccb; /* Adjust text color to match the image */
+}
+
+.anniversarymessage h2 {
+  font-size: 2.5em;
+  margin: 10px 0;
+  color: #ff69b4; /* Adjust heading color */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add subtle shadow */
+  word-wrap: break-word; /* Ensure long words wrap to the next line */
+  max-width: 50%; /* Ensure the text does not exceed the container width */
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.paginationButton {
+  background: #ff69b4;
+  padding: 10px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.pageCount {
+  font-size: 1.2em;
+  color: #333;
+}
