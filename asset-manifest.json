@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/happybday/static/css/main.a88b4ff7.css",
-    "main.js": "/happybday/static/js/main.954280e6.js",
-    "static/js/787.820c63d6.chunk.js": "/happybday/static/js/787.820c63d6.chunk.js",
-    "static/media/Pastel-Flower-Background.jpg": "/happybday/static/media/Pastel-Flower-Background.f13bb4d924a8c15dc8e7.jpg",
-    "index.html": "/happybday/index.html",
-    "main.a88b4ff7.css.map": "/happybday/static/css/main.a88b4ff7.css.map",
-    "main.954280e6.js.map": "/happybday/static/js/main.954280e6.js.map",
-    "787.820c63d6.chunk.js.map": "/happybday/static/js/787.820c63d6.chunk.js.map"
+    "main.css": "/static/css/main.20a4d592.css",
+    "main.js": "/static/js/main.360c066d.js",
+    "static/js/787.ab21985c.chunk.js": "/static/js/787.ab21985c.chunk.js",
+    "static/media/pink-sanrio-hello-kitty-and-friends-7h2vqf6xpo13vo6f.jpg": "/static/media/pink-sanrio-hello-kitty-and-friends-7h2vqf6xpo13vo6f.43f3cde9c05bfdea946a.jpg",
+    "index.html": "/index.html",
+    "main.20a4d592.css.map": "/static/css/main.20a4d592.css.map",
+    "main.360c066d.js.map": "/static/js/main.360c066d.js.map",
+    "787.ab21985c.chunk.js.map": "/static/js/787.ab21985c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a88b4ff7.css",
-    "static/js/main.954280e6.js"
+    "static/css/main.20a4d592.css",
+    "static/js/main.360c066d.js"
   ]
 }
