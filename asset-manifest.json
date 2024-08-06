@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.20a4d592.css",
-    "main.js": "/static/js/main.360c066d.js",
-    "static/js/787.ab21985c.chunk.js": "/static/js/787.ab21985c.chunk.js",
-    "static/media/pink-sanrio-hello-kitty-and-friends-7h2vqf6xpo13vo6f.jpg": "/static/media/pink-sanrio-hello-kitty-and-friends-7h2vqf6xpo13vo6f.43f3cde9c05bfdea946a.jpg",
-    "index.html": "/index.html",
-    "main.20a4d592.css.map": "/static/css/main.20a4d592.css.map",
-    "main.360c066d.js.map": "/static/js/main.360c066d.js.map",
-    "787.ab21985c.chunk.js.map": "/static/js/787.ab21985c.chunk.js.map"
+    "main.css": "/anniversary/static/css/main.180f8324.css",
+    "main.js": "/anniversary/static/js/main.a48abf51.js",
+    "static/js/787.ab21985c.chunk.js": "/anniversary/static/js/787.ab21985c.chunk.js",
+    "static/media/pink-sanrio-hello-kitty-and-friends-7h2vqf6xpo13vo6f.jpg": "/anniversary/static/media/pink-sanrio-hello-kitty-and-friends-7h2vqf6xpo13vo6f.43f3cde9c05bfdea946a.jpg",
+    "index.html": "/anniversary/index.html",
+    "main.180f8324.css.map": "/anniversary/static/css/main.180f8324.css.map",
+    "main.a48abf51.js.map": "/anniversary/static/js/main.a48abf51.js.map",
+    "787.ab21985c.chunk.js.map": "/anniversary/static/js/787.ab21985c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a4d592.css",
-    "static/js/main.360c066d.js"
+    "static/css/main.180f8324.css",
+    "static/js/main.a48abf51.js"
   ]
 }
